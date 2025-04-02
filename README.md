@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Alejandro 
 
 ## 🚀 About Me  
 I'm currently studying **Multiplatform Application Development**, diving into the world of programming and building modern, scalable applications. My main focus is on **Java** and **React**, and I'm constantly learning new technologies and best practices.  
