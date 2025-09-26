@@ -13,9 +13,9 @@ Besides programming, I have a strong background in **digital marketing** and **S
 - 🛠️ Interested in **software architecture**, **cloud computing**, and **scalability**  
 
 ## 🎟️ Current Project  
-I'm developing a **large-scale event ticketing platform** for audiovisual events. This project allows me to explore:  
-✅ **Backend development** with Java  
-✅ **Frontend interfaces** with React  
+I'm developing a **meets and trackdays app** for racing events. This project allows me to explore:  
+✅ **Backend development** with FireBase  
+✅ **Frontend interfaces** with React Native Expo  
 ✅ **Database management** for handling event tickets  
 ✅ **SEO & marketing strategies** to increase visibility  
 ✅ **Scalability & performance optimization**  
