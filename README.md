@@ -1,26 +1,49 @@
-# 👋 Hi, I'm Alejandro 
+# 👋 Hi, I'm Alejandro  
 
 ## 🚀 About Me  
-I'm currently studying **Multiplatform Application Development**, diving into the world of programming and building modern, scalable applications. My main focus is on **Java** and **React**, and I'm constantly learning new technologies and best practices.  
+I'm a passionate developer currently studying **Multiplatform Application Development (DAM)**.  
+I love creating modern, scalable, and well-structured applications that connect technology and real-life experiences.  
 
-Besides programming, I have a strong background in **digital marketing** and **SEO**, with experience managing **Google Ads campaigns** to optimize visibility and drive results. I love combining tech and marketing to create impactful digital solutions.  
+My main focus is on **React** and **mobile app development**, constantly exploring new technologies to improve performance, scalability, and user experience.  
+I also have experience in **digital marketing and SEO**, which helps me merge creativity with analytics to build impactful digital products.  
 
-## 💻 Tech Stack  
-- 🌱 Currently learning **Java** & **React**  
-- ⚙️ Exploring **backend development**, **databases**, and **APIs**  
-- 🎨 Experimenting with **UI/UX design** and front-end frameworks  
-- 📈 Skilled in **SEO**, **Google Ads**, and **digital marketing strategies**  
-- 🛠️ Interested in **software architecture**, **cloud computing**, and **scalability**  
+---
 
-## 🎟️ Current Project  
-I'm developing a **meets and trackdays app** for racing events. This project allows me to explore:  
-✅ **Backend development** with FireBase  
-✅ **Frontend interfaces** with React Native Expo  
-✅ **Database management** for handling event tickets  
-✅ **SEO & marketing strategies** to increase visibility  
-✅ **Scalability & performance optimization**  
+## 💻 Tech Stack & Interests  
 
-## 🔗 Let's Connect!  
-I'm always looking to collaborate, learn from others, and improve my skills. If you're working on something interesting or just want to chat about tech and marketing, feel free to reach out!  
+- ⚛️ **Frameworks:** React, React Native (Expo), Node.js  
+- 🔥 **Backend & Cloud:** Firebase, REST APIs, MySQL  
+- 🎨 **Front-End:** UI/UX design, TailwindCSS, responsive layouts  
+- 🧠 **Tools:** Git, GitHub, VS Code, Android Studio  
+- 📈 **Other Skills:** SEO, Google Ads, digital strategy  
+- ☁️ **Exploring:** Software scalability, cloud infrastructure, and system design  
 
-🚀 **Let’s build something amazing together!**  
+---
+
+## 🎟️ Current Project — *TrackMeets*  
+
+**TrackMeets** connects **drivers, clubs, and event organizers** in one place.  
+It allows users to:  
+- 🏎️ Discover and join nearby **trackdays & meets**  
+- 🧾 Manage **tickets and RSVPs**  
+- 🚗 Build a **garage profile** with cars and modifications  
+- 🎖️ Earn **badges** and track event history  
+- 🌐 Join **convoys, clubs, and communities** of car enthusiasts  
+
+**Tech:** React Native (Expo) · Firebase · Stripe · Google Maps SDK  
+
+This project helps me deepen my knowledge of **full-stack mobile development**, **data management**, and **real-time scalability**.  
+
+---
+
+## 🤝 Let's Connect  
+
+I'm always open to collaboration, learning, and innovation.  
+If you're working on something exciting in **apps, tech, or digital growth**, let's connect!  
+
+📫 **LinkedIn:** [https://www.linkedin.com/in/alejandro-mart%C3%ADn-s%C3%A1ez-224894331/](#)  
+💬 **Email:** alexmartinsaezz@gmail.com  
+
+---
+
+⭐️ _“Let’s build something amazing together!”_ 🚀
