@@ -120,12 +120,3 @@ If you want to see the code or collaborate on any project, find me on GitHub or 
 - Portfolio → https://alejandroportfolio.dev
 
 ---
-
-## Notes about button design
-- I use shields.io with colorA/colorB combinations to simulate a gradient and give a modern look without CSS.
-- If you prefer custom SVG icons or a button with a hover effect, I can:
-  - Generate SVGs and host them in /assets/badges/ and use them in the README.
-  - Create README_PROJECTS.md with a "Featured Projects" section and a card per project.
-  - Prepare an alternate version (light / dark theme) or a header with a small illustration/GIF.
-
-Would you like me to generate the README_PROJECTS.md file with 3 featured projects (TrackMeets + 2 more) and the badge SVGs in /assets/badges/? I can create the files ready to upload.
